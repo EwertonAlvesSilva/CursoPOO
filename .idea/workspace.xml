@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73236f28-3986-4a1c-a39c-89d8a0eeeab4" name="Changes" comment="Teste1">
-      <change afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
+    <list default="true" id="73236f28-3986-4a1c-a39c-89d8a0eeeab4" name="Changes" comment="Adicionando Getter, Setter e Construtores no projeto.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717948340010</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adicionando Getter, Setter e Construtores no projeto.">
+      <option name="closed" value="true" />
+      <created>1717955813022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717955813022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teste1" />
+    <MESSAGE value="Adicionando Getter, Setter e Construtores no projeto." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Getter, Setter e Construtores no projeto." />
   </component>
 </project>
