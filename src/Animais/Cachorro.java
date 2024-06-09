@@ -68,7 +68,7 @@ public class Cachorro {
 
     public String pegar(){
 
-        return "bolinhsssa";
+        return "bolinha";
     }
 
     public String interagir(String acao){
