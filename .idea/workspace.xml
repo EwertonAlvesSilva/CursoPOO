@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73236f28-3986-4a1c-a39c-89d8a0eeeab4" name="Changes" comment="Adicionando Getter, Setter e Construtores no projeto.">
+    <list default="true" id="73236f28-3986-4a1c-a39c-89d8a0eeeab4" name="Changes" comment="Arrumando o teste.">
+      <change afterPath="$PROJECT_DIR$/src/Animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animais/Passaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lojas/Petshop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animais/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animais/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,38 +26,45 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ewerton Silva &lt;alvessilva.ewerton@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EwertonAlvesSilva"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EwertonAlvesSilva&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EwertonAlvesSilva/CursoPOO.git",
-    "accountId": "84a08d11-165e-4b65-b8a4-38d31d80a75c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EwertonAlvesSilva/CursoPOO.git&quot;,
+    &quot;accountId&quot;: &quot;84a08d11-165e-4b65-b8a4-38d31d80a75c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2heIPHiau8PjGecnPtn44x4VcWE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Ewerton Silva/IdeaProjects/CursoPOO/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Ewerton Silva/IdeaProjects/CursoPOO/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717955813022</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando Getter, Setter e Construtores no projeto.">
+      <option name="closed" value="true" />
+      <created>1717956454768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717956454768</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Arrumando o teste.">
+      <option name="closed" value="true" />
+      <created>1717956540845</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717956540845</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teste1" />
     <MESSAGE value="Adicionando Getter, Setter e Construtores no projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Getter, Setter e Construtores no projeto." />
+    <MESSAGE value="Arrumando o teste." />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrumando o teste." />
   </component>
 </project>
